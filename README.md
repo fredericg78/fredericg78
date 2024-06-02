@@ -3,8 +3,10 @@
 Here is one of the FredG_ProD repo for some special projects.
 
 Fullstack software architect and developer, tech lead.
-- python, django, flask, sqlalchemy, angular, typescript, html/css, node.js, C++, Go, mongoDB, redis, postgre, MySQL, elasticsearch, kibana, logstash, software design patterns
-- kubernetes, docker, ansible, terraform, cloud, secdevops
+- python, django, flask, sqlalchemy, rabbitMQ, celery, angular, typescript, html/css, bootstrap, node.js, C++, Go
+- software design patterns, overall architecture, UML, microservices, REST APIs
+- mongoDB, redis, postgre, MySQL, elasticsearch, kibana, logstash
+- kubernetes, docker, ansible, terraform, GCP, cloud, secdevops
 - ai & machine learning, data science
 - trading bots
 - blogging (wordpress)
